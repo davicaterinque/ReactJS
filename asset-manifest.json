@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactJS/static/css/main.4d771a3a.css",
+    "main.js": "/ReactJS/static/js/main.e9946c58.js",
+    "static/media/info.png": "/ReactJS/static/media/info.91404807e78b1825dac4.png",
+    "static/media/piclogo.svg": "/ReactJS/static/media/piclogo.400fcac40e66c43103dc74bf13d7c23e.svg",
+    "static/media/piclogo.png": "/ReactJS/static/media/piclogo.d85eb7a13cf213bb6004.png",
+    "static/media/cashback.svg": "/ReactJS/static/media/cashback.c106e5435e2964ebc7843f21bdf4e99f.svg",
+    "static/media/sendmoney.svg": "/ReactJS/static/media/sendmoney.5a20079a21778a6029d14c94b8c409dc.svg",
+    "static/media/cdi.svg": "/ReactJS/static/media/cdi.7cf0432b465987afdd0096d1a29ab351.svg",
+    "static/media/compras.svg": "/ReactJS/static/media/compras.41491cebe3922bd923c53eee0ff917d0.svg",
+    "static/media/boletos.svg": "/ReactJS/static/media/boletos.411161c1033a939acbe246561b06b646.svg",
+    "index.html": "/ReactJS/index.html",
+    "main.4d771a3a.css.map": "/ReactJS/static/css/main.4d771a3a.css.map",
+    "main.e9946c58.js.map": "/ReactJS/static/js/main.e9946c58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d771a3a.css",
+    "static/js/main.e9946c58.js"
+  ]
+}
